@@ -1,1 +1,1 @@
-This is a DataCamp project exploring the popularity of different programming languages using Kaggle Data Survey data.
+This is a DataCamp project exploring the popularity of different programming languages using Kaggle Data Survey data. View the Jupyter notebook [here](https://nbviewer.jupyter.org/github/aloosefish/Kaggle_Programing_Language_Study/blob/master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb).
